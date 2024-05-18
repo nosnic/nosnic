@@ -4,7 +4,7 @@ I'm a computer science student currently residing in St. Petersburg. Passionate 
 Skills: Python / PyTorch / Pandas / Numpy / SQL
 
 - 🌱 I'm currently learning about advanced techniques in Natural Language Processing (NLP)
-- 🔥 Looking for a work
+- 🔥 Looking for work
 
 Below are some of the projects I've worked on that you can explore.
 
